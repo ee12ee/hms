@@ -1,0 +1,8 @@
+{
+    "Auth": true,
+    "Department": true,
+    "Register": true,
+    "Doctor": true,
+    "Service": true,
+    "Ambulance": true
+}
